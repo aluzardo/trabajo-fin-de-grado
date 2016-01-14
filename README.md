@@ -1,4 +1,4 @@
-# Mi trabajo de fin de grado "Aplicación Android para pedir cita en peluquerías"
+# Mi trabajo de fin de grado
 
 UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA
 ESCUELA DE INGENIERÍA DE TELECOMUNICACIÓN Y ELECTRONICA
